@@ -1,0 +1,2 @@
+algoritmo"bom dia"
+
